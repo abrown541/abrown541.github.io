@@ -1,4 +1,3 @@
-# Hello World
 #### Why I chose to start this blog 
 I've just finished my degree at UC Berkeley and moved halfway accross the country to start a new job at Epic Systems. I'm ecstatic about Madison and the position, but any big change can be scary and I think a blog may help me organize my thoughts. More pertinent to why I chose to start this blog, is my leaving (escaping?) the structure and rigour of my degree progam. I no longer live in a world where my personal development is managed by due dates and evaluated by exams. Now, if I want to accomplish my goals I need to build my own plans set my own deadlines and decide for myself how well I achieved them. 
 
