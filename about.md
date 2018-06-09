@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm just a software developer looking chronicling his journey of profesional development.
+I'm just a software developer chronicling his journey of professional development.
 
 ### More Information
 
